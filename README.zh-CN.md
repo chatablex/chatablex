@@ -16,11 +16,23 @@
 [![Windows](https://img.shields.io/badge/Windows-支持-0078D4?logo=windows&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-支持-FCC624?logo=linux&logoColor=black)]()
 
+<p>
+  <a href="https://www.chatablex.com"><strong>官网</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.chatablex.com/download"><strong>下载</strong></a>
+</p>
+
 </div>
 
 <p align="center">
   <img src="assets/chatablex-app.png" alt="ChatableX 主界面：工具商店、对话交互、Agent Brain 推理追踪" width="920" />
 </p>
+
+## 下载
+
+桌面端安装包（macOS / Windows / Linux）请前往官网获取：
+
+**[https://www.chatablex.com/download](https://www.chatablex.com/download)**
 
 ## 产品定位
 
@@ -287,5 +299,6 @@ Agent Loop 内嵌 Plan-then-Execute 策略：优先生成执行计划，再逐�
 
 <p align="center">
   <strong>ChatableX · 小蜜蜂智能体</strong><br />
-  <sub>Agent Loop Native · Harness Native · macOS · Windows · Linux</sub>
+  <sub>Agent Loop Native · Harness Native · macOS · Windows · Linux</sub><br />
+  <sub><a href="https://www.chatablex.com">www.chatablex.com</a></sub>
 </p>

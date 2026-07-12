@@ -16,11 +16,23 @@
 [![Windows](https://img.shields.io/badge/Windows-Supported-0078D4?logo=windows&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-Supported-FCC624?logo=linux&logoColor=black)]()
 
+<p>
+  <a href="https://www.chatablex.com"><strong>Website</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.chatablex.com/download"><strong>Download</strong></a>
+</p>
+
 </div>
 
 <p align="center">
   <img src="assets/chatablex-app.png" alt="ChatableX main interface: tool store, chat, and Agent Brain reasoning trace" width="920" />
 </p>
+
+## Download
+
+Desktop installers (macOS / Windows / Linux) are published on the official website:
+
+**[https://www.chatablex.com/download](https://www.chatablex.com/download)**
 
 ## Product Positioning
 
@@ -287,5 +299,6 @@ Recurring flow → tool → store search & assembly → describe intent → Agen
 
 <p align="center">
   <strong>ChatableX · Agent Platform</strong><br />
-  <sub>Agent Loop Native · Harness Native · macOS · Windows · Linux</sub>
+  <sub>Agent Loop Native · Harness Native · macOS · Windows · Linux</sub><br />
+  <sub><a href="https://www.chatablex.com">www.chatablex.com</a></sub>
 </p>

@@ -8,7 +8,7 @@ First public beta of ChatableX for desktop.
 
 ### Download
 
-- Windows (x64): `ChatableX-0.1.0-beta.1-windows-x64.exe`
+Get the latest installer from the official download page: [https://www.chatablex.com/download](https://www.chatablex.com/download)
 
 ### Requirements
 

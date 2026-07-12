@@ -8,7 +8,7 @@ ChatableX 桌面端首个公开测试版。
 
 ### 下载
 
-- Windows (x64)：`ChatableX-0.1.0-beta.1-windows-x64.exe`
+请前往官网下载页获取最新安装包：[https://www.chatablex.com/download](https://www.chatablex.com/download)
 
 ### 系统要求
 
